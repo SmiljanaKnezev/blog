@@ -26,7 +26,9 @@ twitter_username:  test
 social-network-links:
 twitter: asd
 twitter2: eh
-
+share-links-active:
+twitter: true
+twitter2: true
 
 github_username:  jekyll
 
