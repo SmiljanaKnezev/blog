@@ -24,11 +24,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  test
 
 social-network-links:
-twitter: asd
-twitter2: eh
-share-links-active:
-twitter: true
-twitter2: true
+twitter_username2: asd
+
 
 github_username:  jekyll
 
